@@ -1,0 +1,255 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-21 10:30:27
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-22 00:04:45
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration:none;
+}
+header{
+	width: 4rem;
+	height: 0.53rem;
+	background: #212121;
+}
+header img{
+	display: block;
+	width:0.29rem; 
+	height: 0.29rem;
+	float: left;
+	margin: 0.12rem 0.13rem;
+}
+.note img{
+	display: block;
+	float: left;
+	width:0.82rem;
+	height:0.15rem;
+	margin: 0.19rem 0.07rem;
+}
+header .icon-caidan{
+	width:0.26rem;
+	height: 0.26rem;
+	float: right;
+	margin-right: 0.19rem;
+	margin-top: 0.19rem; 
+	font-size: 0.26rem;
+	color: #585858;
+}
+.swiper-container {
+    width:100%;
+	height: 5.63rem;
+}  
+.swiper-slide img{
+	display: block;
+	width:100%;
+	height: 5.63rem;
+}
+.page{
+	width: 100%;
+	height: 10.04rem;
+}
+ul li{
+	width: 100%;
+	height: auto;
+
+}
+ul li a{
+	display: block;
+	width: 100%;
+	height: 2.51rem;
+	border-bottom: 0.01rem solid #ffffff; 
+	overflow: hidden;
+}
+.p4{
+	background: url('../img/p4.jpg') no-repeat 0 0;
+	background-size: cover;
+}
+ul li a h1{
+	width:100%; 
+	height:0.39rem;
+	line-height:0.39rem;
+	text-align: center;
+	font-size: 0.19rem;
+	color: #948377; 
+}
+ul li a h2{
+	width:100%; 
+	height:0.39rem;
+	line-height:0.39rem;
+	text-align: center;
+	font-size: 0.16rem;
+	color: #948377; 
+}
+ul li a h3{
+	width:100%; 
+	height:0.49rem;
+	line-height:0.49rem;
+	text-align: center;
+	font-size: 0.31rem;
+	color: #d02a2b;
+}
+ul li a h4{
+	width:100%; 
+	height:0.4rem;
+	line-height:0.4rem;
+	text-align: center;
+	font-size: 0.22rem;
+	color: #d02a2b;
+}
+.p5{
+	background: url('../img/p5.jpg') no-repeat 0 0;
+	background-size: cover;
+}
+.p6{
+	background: url('../img/p6.jpg') no-repeat 0 0;
+	background-size: cover;
+}
+.p7{
+	background: url('../img/p7.jpg') no-repeat 0 0;
+	background-size: cover;
+}
+.bottom{
+	width: 100%;
+	height: 4.44rem;
+}
+.bo{
+	width: 100%;
+	height: 1.52rem;
+}
+.bo li{
+	width: 3.6rem;
+	height: 0.37rem;
+	margin-left:0.2rem;
+	border-bottom: 1px solid #cccccc;
+}
+.bo li a{
+	display: block;
+	width:0.56rem;
+	height: 0.15rem;
+	float: left;
+	margin-top: 0.09rem;
+	font-size: 0.13rem;
+	color:#666666;
+}
+.bo li span{
+	width: 0.12rem;
+	height: 0.12rem;
+	float: right;
+	font-size: 0.1rem;
+}
+.number{
+	width: 100%;
+	height: 1.27rem;
+	margin: 0 auto;
+}
+.nu li{
+	width:1.5rem; 
+	height: 0.43rem;
+	margin: 0 auto;
+}
+.n1{
+	display:block;
+	width:1.12rem; 
+	height: 0.12rem;
+	margin-top: 0.26rem;
+	text-align: center;
+	font-size: 0.12rem;
+	font-weight: bold;
+	color: #333333;
+}
+.n2{
+	display:block;
+	width:1.30rem; 
+	height: 0.13rem;
+	font-size: 0.11rem;
+	color: #515151;
+}
+.n3{
+	display:block;
+	width:1.5rem; 
+	height: 0.11rem;
+	font-size: 0.09rem;
+	color: #515151;
+}
+.last{
+	width:100%; 
+	height: 1.42rem;
+	overflow: hidden;
+}
+.l1{
+	width: 0.6rem;
+	height: 0.29rem;
+	text-align: center;
+	float: left;
+	margin-left: 0.15rem;
+	line-height: 0.29rem;
+	font-size: 0.11rem;
+	color: #aabbd3;
+}
+.l2{
+	width:0.6rem;
+	height: 0.27rem;
+	float: left;
+	margin-left: 0.1rem;
+	line-height: 0.27rem;
+	font-size: 0.11rem;
+	color: #aabbd3;
+}
+.l3{
+	width: 3.32rem;
+	height: 0.11rem;
+	margin-left: 0.15rem;
+	margin-top: 0.3rem;
+	font-size: 0.11rem;
+	color: #aabbd3;
+}
+.l4{
+	width: 3.28rem;
+	height: 0.11rem;
+	margin-left: 0.15rem;
+	margin-top: 0.07rem;
+	font-size: 0.11rem;
+	color: #aabbd3;
+}
+.pic{
+	width: 4rem;
+	height:0.34rem;	
+	margin-top: 0.3rem;
+}
+.weixin{
+	display: block;
+	width: 0.4rem;
+	height: 0.4rem;
+	float: left;
+	margin-left: 0.17rem;
+	margin-right: 0.16rem;
+	background: url('../img/weixin.png') no-repeat 0 0;
+}
+.weibo{
+	display: block;
+	width: 0.4rem;
+	height: 0.4rem;
+	float: left;
+	margin-right: 0.16rem;
+	background: url('../img/weibo.png') no-repeat 0 0;
+}
+.yun{
+	display: block;
+	width: 0.4rem;
+	height: 0.4rem;
+	float: left;
+	margin-right: 0.16rem;
+	background: url('../img/yun.png') no-repeat 0 0;
+}
+.tieba{
+	display: block;
+	width: 0.4rem;
+	height: 0.4rem;
+	float: left;
+	margin-right: 0.16rem;
+	background: url('../img/tieba.png') no-repeat 0 0;
+}
+
